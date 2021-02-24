@@ -1,4 +1,13 @@
-### Hi there 👋
+- 🔭  I’m a Data Scientist in Kaohsiung.
+- 🖋  Check my Chinese blog [here](https://nerocube.github.io/) 
+- ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/%E5%86%A0%E5%BB%B7-%E9%99%B3-6508b7155/) or by email (nerocube.tw@gmail.com)
+- 🌱 I’m currently learning time series model for energy price forecasting.
+
+<a href="https://github.com/NeroCube">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeroCube&show_icons=true&theme=merko&count_private=true" alt="NeroCube's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeroCube&theme=merko&layout=compact" alt="NeroCube's github top languages" />
+</a>
+<br/>
 
 <!--
 **NeroCube/nerocube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
