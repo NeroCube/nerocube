@@ -1,4 +1,4 @@
-- 🔭  I’m a Data Scientist in Kaohsiung.
+- 🔭  I’m a Data Team Unit Leader in Taipei.
 - 🖋  Check my Chinese blog [here](https://nerocube.github.io/) 
 - ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/%E5%86%A0%E5%BB%B7-%E9%99%B3-6508b7155/) or by email (nerocube.tw@gmail.com)
 - 🌱 I’m currently learning time series model for energy price forecasting.
