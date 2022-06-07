@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Nero 👨🏻‍💻 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> , I'm Nero 👨🏻‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/NeroChen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nero-chen-6508b7155) 
 <img src="https://komarev.com/ghpvc/?username=NeroCube&label=Profile%20views&color=61dafb&style=flat"/> 
