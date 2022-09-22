@@ -4,10 +4,10 @@
 <img src="https://komarev.com/ghpvc/?username=NeroCube&label=Profile%20views&color=61dafb&style=flat"/> 
 [![Github](https://img.shields.io/github/followers/NeroCube?label=Follow&style=social)](https://github.com/NeroCube)
 
-- 🔭  I’m a Lead Data Scientist in Taipei.
-- 🖋  Check my Chinese blog [here](https://nerocube.github.io/) 
+- 🔭 I’m currently working on Micron as a Senior Data Engineer .
+- 🖋 Check my Chinese blog [here](https://nerocube.github.io/) 
 - ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/nero-chen-6508b7155/) or by email (nerocube.tw@gmail.com)
-- 🌱 I’m currently learning time series model for energy price forecasting.
+- 🌱 I’m currently use data science and data engineering expertises help our company improve data quality and system reliability.
 
 
 
